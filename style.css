@@ -1,0 +1,10 @@
+/* Import Fonts Inconsolata and Livvic from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;600&family=Livvic:wght@100;400;500;600&family=Space+Mono&display=swap');
+
+@import url(styles/reset.css);
+@import url(styles/header.css);
+@import url(styles/home.css);
+@import url(styles/about.css);
+@import url(styles/works.css);
+@import url(styles/contact.css);
+@import url(styles/footer.css);
