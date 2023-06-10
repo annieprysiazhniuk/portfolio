@@ -1,0 +1,30 @@
+
+@import url(variables.css);
+.logo {
+    font: 500 30px "Livvic", Sans-serif; 
+}
+.logo .accent {
+    font-size: 35px;
+}
+.logo i {
+    font-size: 30px;
+    color: var(--main-color);
+}
+.main-nav-list a {
+    display: inline-block;
+    padding: 43px 0px 0px 0px;
+    border-top: 14px solid rgba(0,0,0,0);
+    font: 500 18px "Livvic", Sans-serif;
+}
+.main-nav-list a.current-menu-item, 
+.main-nav-list a:hover {
+    color: var(--main-color);
+    border-color: var(--main-color);
+    transition: all 0.3s;
+}
+.contact-container .phone {
+    font: bold 24px "Livvic", Sans-serif;
+}
+.social-icons .icon {
+    color: #cfcfcf;
+}

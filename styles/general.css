@@ -1,0 +1,17 @@
+@import url(variables.css);
+
+body {
+    font: 400 20px 'Inconsolata', sans-serif;
+    color: #1a1a1a;
+}
+
+a {
+    text-decoration: none;
+}
+
+.accent {
+    color: var(--main-color)
+}
+.page-section {
+    height: 100vh;
+}
